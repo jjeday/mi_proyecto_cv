@@ -2,7 +2,8 @@
 	margin:0;
 	padding:0;
 	list-style:none;
-	font-family:sans-serif;
+	font-family: 'Courier';
+	 
 	}
 header{
 	position:relative;
@@ -184,3 +185,31 @@ footer{
 /*body{
     display:flex;
 }*/
+  a {
+	color:white;
+	font-family: 'Kaushan Script', cursive;
+	text-decoration: none;
+  }
+
+  li a{
+	color:white;
+  }
+  h2 a{
+	color:rgba(100,0,255,1);
+  }
+  h2{
+	color:rgba(100,0,255,1);
+	font-family: 'Kaushan Script', cursive;
+  }
+  a:hover {
+	font-size:25px;
+	color:#00FF00;
+  }
+  
+  ul{
+    font-size:25px;
+  }
+  h3{
+	margin:10px 20px;
+	font-size:22px;
+  }
